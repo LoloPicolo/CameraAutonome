@@ -1,6 +1,8 @@
 # CameraAutonome
 
 Idées
+https://github.com/lemariva/uPyCam
+
 
 Wifi 
 6 Wifi
