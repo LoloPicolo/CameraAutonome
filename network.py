@@ -1,3 +1,5 @@
+# https://stackoverflow.com/questions/63801369/try-multiple-aps-and-passwords-until-connected-on-esp32-with-micropython
+
 import network
 
 # Set up the Wi-Fi networks you want to try to connect to
