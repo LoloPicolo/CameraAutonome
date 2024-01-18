@@ -8,8 +8,14 @@ Wifi
 Camera
 
 FTP
-camera01\
+camera01\last_picture.jpg
 camera01\timelapse.avi
+camera02\last_picture.jpg
+camera01.cfg for config file 
+camera02.cfg for config file 
+camera03.cfg for config file 
+
+
 
 Config
 
