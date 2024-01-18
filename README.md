@@ -31,5 +31,8 @@ NTP pour aller chercher l'heure exacte
 https://www.upesy.fr/blogs/tutorials/esp32-date-time-internet-with-ntp-server-with-micropython-script
 
 
+Pour intégration dans Home Assistant
+https://github.com/luixal/lovelace-media-source-image-card
+
 
 
