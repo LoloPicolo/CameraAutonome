@@ -1,3 +1,5 @@
+## https://github.com/lemariva/micropython-camera-driver
+
 import camera
 
 ## ESP32-CAM (default configuration) - https://bit.ly/2Ndn8tN
