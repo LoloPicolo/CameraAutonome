@@ -23,6 +23,7 @@ Write MicroSD
 
 Timelapse
 https://github.com/lemariva/uPyCam/tree/timelapse-camera
+https://www.youtube.com/watch?v=qW25Bx1nzLo
 
 Lire config sur FTP Serveur
 
